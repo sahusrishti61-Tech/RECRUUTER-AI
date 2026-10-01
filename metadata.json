@@ -1,0 +1,6 @@
+{
+  "name": "RecruiterAI - Technical Resume Screener & Career Coach",
+  "description": "Expert 15+ year recruiter and career coach assessment engine analyzing resumes against target roles and job descriptions with actionable ATS audits, quantified bullet rewrites, and skill gap roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
